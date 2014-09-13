@@ -15,7 +15,7 @@ _build/
 status
 # odoo filestore
 openerp/filestore
-# generated for windows ?
+# generated for windows installer?
 install/win32/*.bat
 install/win32/meta.py
 

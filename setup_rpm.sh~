@@ -1,5 +1,5 @@
 #
-# This1 file is used by 'python setup.py bdist_rpm'
+# This file is used by 'python setup.py bdist_rpm'
 # You should not execute/call this file yourself.
 #
 # This script is used as the 'install' part of the RPM .spec file.

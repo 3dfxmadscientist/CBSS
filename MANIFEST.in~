@@ -1,4 +1,4 @@
-graft debian1
+graft debian
 graft doc
 graft install
 graft openerp
